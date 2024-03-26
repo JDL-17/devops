@@ -61,3 +61,4 @@ kcna or cka certification
 Training: 
 https://kubernetes.io/training/
 
+# devops
